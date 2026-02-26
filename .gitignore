@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# Personal Secrets (最重要的！)
+.env
+
+# Vector Database (資料庫不建議上傳)
+chroma_db/
+
+# IDE settings
+.vscode/
+.idea/
