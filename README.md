@@ -4,6 +4,10 @@
 
 ---
 
+## DEMO VIDEO
+
+https://youtu.be/yxM8mT3m0HE
+
 ## 🛠️ 技術棧 (Tech Stack)
 
 * **語言**: Python 3.12+
